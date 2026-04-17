@@ -35,5 +35,3 @@ Getting started (developer)
 
    pip install -r requirements.txt
    
----
-# Expense_tracker
